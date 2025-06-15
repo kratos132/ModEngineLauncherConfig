@@ -1,0 +1,15 @@
+/workspaces/ModEngineLauncherConfig/bin/Release/net6.0-windows/ModEngineLauncherConfig
+/workspaces/ModEngineLauncherConfig/bin/Release/net6.0-windows/ModEngineLauncherConfig.deps.json
+/workspaces/ModEngineLauncherConfig/bin/Release/net6.0-windows/ModEngineLauncherConfig.runtimeconfig.json
+/workspaces/ModEngineLauncherConfig/bin/Release/net6.0-windows/ModEngineLauncherConfig.dll
+/workspaces/ModEngineLauncherConfig/bin/Release/net6.0-windows/ModEngineLauncherConfig.pdb
+/workspaces/ModEngineLauncherConfig/obj/Release/net6.0-windows/ModEngineLauncherConfig.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ModEngineLauncherConfig/obj/Release/net6.0-windows/ModEngineLauncherConfig.AssemblyInfoInputs.cache
+/workspaces/ModEngineLauncherConfig/obj/Release/net6.0-windows/ModEngineLauncherConfig.AssemblyInfo.cs
+/workspaces/ModEngineLauncherConfig/obj/Release/net6.0-windows/ModEngineLauncherConfig.csproj.CoreCompileInputs.cache
+/workspaces/ModEngineLauncherConfig/obj/Release/net6.0-windows/ModEngineLauncherConfig.sourcelink.json
+/workspaces/ModEngineLauncherConfig/obj/Release/net6.0-windows/ModEngineLauncherConfig.dll
+/workspaces/ModEngineLauncherConfig/obj/Release/net6.0-windows/refint/ModEngineLauncherConfig.dll
+/workspaces/ModEngineLauncherConfig/obj/Release/net6.0-windows/ModEngineLauncherConfig.pdb
+/workspaces/ModEngineLauncherConfig/obj/Release/net6.0-windows/ModEngineLauncherConfig.genruntimeconfig.cache
+/workspaces/ModEngineLauncherConfig/obj/Release/net6.0-windows/ref/ModEngineLauncherConfig.dll
